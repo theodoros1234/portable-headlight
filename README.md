@@ -1,4 +1,4 @@
-# portable-headlight
+# Portable Headlight
 Arduino code for a portable lighting device I made.
 
 The device features an array of cool white LEDs and warm white LEDs, which are very bright when all lit together, and 2 control buttons.
